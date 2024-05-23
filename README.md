@@ -6,7 +6,6 @@
 
 ###
 <h1 align="center">Hi 👋 My name is Bogdan!</h1>
-###
 
 <div align="center">
   <a href="https://t.me/JEF_qwerty" target="_blank">
