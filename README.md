@@ -5,9 +5,7 @@
 </div>
 
 ###
-
-<h1 align="center">Привет👋 Меня зовут Богдан!</h1>
-
+<h1 align="center">Hi 👋 My name is Bogdan!</h1>
 ###
 
 <div align="center">
@@ -23,13 +21,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left"> 👩‍💻  About me</h3>
 
 ###
 
-<p align="left">С 2023 года я активно изучаю разработку игр на Unity и одновременно развиваю навыки программирования на C#, HTML и CSS.<br> Мой опыт включает в себя создание консольных программ и стремление создавать чистый и профессиональный код на C#. <br>Меня привлекает возможность работать в сфере геймдева и бэкенд-разработки. В настоящее время я учусь в школе программирования Junior, где активно участвую в уроках и проектах. В мои цели входит работа фрилансером и продвижение собственных проектов в области разработки игр и веб-приложений.</p>
+<p align="left">Since 2023, I have been actively developing on Unity and at the same time developing programming skills in C#, HTML and CSS.
+I have experience in creating console programs, and I strive to write clean and professional C# code. I am attracted by the opportunity to work in the field of game and web application development, create my own projects and promote them.
+I am currently studying at the I am a Junior programming school. In the future, I plan to work as a freelancer and implement my ideas in the field of game development and web applications.</p>
 
-* 🌍  I'm based in Kemerovo
 * 📚  I study gamedev in Roman Sakutin's courses
 * ⚡  I want to learn a profession and find a job
 
@@ -39,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Skills:</h3>
 
 ###
 <div align="left">
