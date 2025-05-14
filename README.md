@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img height="600" width="1000" src="https://otkritkis.com/wp-content/uploads/2022/07/ifa7n.gif"  />
+  <img height="600" width="1000" src="https://github.com/BogdanBTO/BogdanBTO/blob/main/welcome.gif?raw=true">
  <!-- <img height="300" width="600" src="https://tenor.com/ru/view/xd-programming-gif-23473924.gif"  /> -->
 </div>
 
