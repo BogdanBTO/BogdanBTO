@@ -8,8 +8,14 @@
 <h1 align="center">Hi 👋 My name is Bogdan!</h1>
 
 <div align="center">
-  <a href="https://t.me/rhein_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <a href="(https://t.me/rhein_dev" target="_blank)">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+
+  <a href="(https://t.me/rhein_dev" target="_blank)">
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+
+  <a href="(https://t.me/rhein_dev" target="_blank)">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Vkontakte Badge"/>
   </a>
    <!-- <a href="https://vk.com/id863705587" target="_blank">
     <img src="https://img.shields.io/badge/VKONTAKTE-blue" height="25" alt="youtube logo"  />
