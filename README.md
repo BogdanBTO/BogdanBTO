@@ -5,17 +5,17 @@
 </div>
 
 ###
-<h1 align="center">Hi 👋 My name is Bogdan!</h1>
+<h1 align="center">Hi, my name is rheinDev <sub>You may also know me as Bogdan.</sub></h1>
 
 <div align="center">
     <a href="(https://t.me/rhein_dev" target="_blank)">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+
+  <a href="([https://t.me/rhein_dev" target="_blank](https://steamcommunity.com/profiles/76561198867971647/))">
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Steam Badge"/>
 
   <a href="(https://t.me/rhein_dev" target="_blank)">
-    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
-
-  <a href="(https://t.me/rhein_dev" target="_blank)">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/more-pale?style=for-the-badge&logo=twitter&logoColor=white" alt="more Badge"/>
   </a>
    <!-- <a href="https://vk.com/id863705587" target="_blank">
     <img src="https://img.shields.io/badge/VKONTAKTE-blue" height="25" alt="youtube logo"  />
@@ -30,12 +30,16 @@
 
 ###
 
-<p align="left">Since 2023, I have been actively developing on Unity and at the same time developing programming skills in C#, HTML and CSS.
-I have experience in creating console programs, and I strive to write clean and professional C# code. I am attracted by the opportunity to work in the field of game and web application development, create my own projects and promote them.
-I am currently studying at the I am a Junior programming school. In the future, I plan to work as a freelancer and implement my ideas in the field of game development and web applications.</p>
+<p align="left">Since 2025, I have been actively developing on Unity and simultaneously developing programming skills in C#, HTML and CSS.
+I have experience creating indie games, and I strive to write clean and professional C# code. I am attracted to the opportunity to work in the field of game and web application development, create my own projects and promote them.
+I am currently studying at the I am a Junior Programming school. In the future, I plan to work as a freelancer and implement my ideas in the field of game and web application development.</p>
 
-* 📚  I study gamedev in Roman Sakutin's courses
-* ⚡  I want to learn a profession and find a job
+
+
+
+
+* 📚  I create indie projects
+* ⚡  meowmeowmeowmeowmeowmeowmeowmeowmeow
 
 ###
 
