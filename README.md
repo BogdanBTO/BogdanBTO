@@ -55,7 +55,7 @@ I am currently studying at the I am a Junior Programming school. In the future, 
   <img width="12" />
 <img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/git_logo.svg" width="36" height="36" alt="Git" />
   <img width="12" />
-<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/Visual_Studio_logo.png" width="36" height="36" alt="VS Code" />
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/visual_Studio_logo.png" width="36" height="36" alt="VS Code" />
   <img width="12" />
 <img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/sublimetext_logo.png" width="36" height="36" alt="Sublime Text" />
   <img width="12" />
@@ -65,7 +65,7 @@ I am currently studying at the I am a Junior Programming school. In the future, 
   <img width="12" />
 <img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/dot_net_logo.svg" width="36" height="36" alt=".NET" />
   <img width="12" />
-<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/Unity_logo.jpeg" width="36" height="36" alt="Blender" /></a>
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/unity_logo.png" width="36" height="36" alt="Unity" /></a>
 </div>
 
 ###
