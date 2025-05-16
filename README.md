@@ -8,10 +8,10 @@
 <h1 align="center">Hi, my name is rheinDev <sub>You may also know me as Bogdan.</sub></h1>
 
 <div align="center">
-    <a href="(https://t.me/rhein_dev" target="_blank)">
+    <a href="https://t.me/rhein_dev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
 
-  <a href="([https://t.me/rhein_dev" target="_blank](https://steamcommunity.com/profiles/76561198867971647/))">
+  <a href="https://steamcommunity.com/profiles/76561198867971647/">
     <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Steam Badge"/>
 
   <a href="(https://t.me/rhein_dev" target="_blank)">
