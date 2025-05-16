@@ -65,7 +65,9 @@ I am currently studying at the I am a Junior Programming school. In the future, 
   <img width="12" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
   <img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
+<img width="12" />
+<img src="https://holographica.space/wp-content/uploads/2024/10/Unity.jpeg" width="36" height="36" alt="Blender" /></a>
 </div>
 
 ###
