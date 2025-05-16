@@ -38,7 +38,7 @@ I am currently studying at the I am a Junior Programming school. In the future, 
 
 
 
-* 📚  I create indie projects
+* 📚  I am fond of creating indie projects
 * ⚡  meowmeowmeowmeowmeowmeowmeowmeowmeow
 
 ###
