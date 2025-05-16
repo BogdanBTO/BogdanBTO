@@ -51,23 +51,21 @@ I am currently studying at the I am a Junior Programming school. In the future, 
 
 ###
 <div align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/csharp_logo.svg" width="36" height="36" alt="C#" />
   <img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/git_logo.svg" width="36" height="36" alt="Git" />
   <img width="12" />
-<img src="https://icon-icons.com/icons2/615/PNG/256/Visual_Studio_icon-icons.com_56597.png" width="36" height="36" alt="VS Code" />
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/Visual_Studio_logo.png" width="36" height="36" alt="VS Code" />
   <img width="12" />
-<img src="https://icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" width="36" height="36" alt="Sublime Text" />
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/sublimetext_logo.png" width="36" height="36" alt="Sublime Text" />
   <img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/html5_logo.svg" width="36" height="36" alt="HTML5" />
   <img width="12" />
-<img src="https://icon-icons.com/icons2/2407/PNG/512/mega_icon_146149.png" width="36" height="36" alt="Google Cloud" />
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/mega_logo.png" width="36" height="36" alt="Google Cloud" />
   <img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/dot_net_logo.svg" width="36" height="36" alt=".NET" />
   <img width="12" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" />
-<img width="12" />
-<img src="https://holographica.space/wp-content/uploads/2024/10/Unity.jpeg" width="36" height="36" alt="Blender" /></a>
+<img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/Unity_logo.jpeg" width="36" height="36" alt="Blender" /></a>
 </div>
 
 ###
