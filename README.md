@@ -14,7 +14,7 @@
   <a href="https://steamcommunity.com/profiles/76561198867971647/">
     <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Steam Badge"/>
 
-  <a href="(https://t.me/rhein_dev" target="_blank)">
+  <a href="https://vk.com/id1049209100" target="_blank)">
     <img src="https://img.shields.io/badge/more-pale?style=for-the-badge&logo=twitter&logoColor=white" alt="more Badge"/>
   </a>
    <!-- <a href="https://vk.com/id863705587" target="_blank">
