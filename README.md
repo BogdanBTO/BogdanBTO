@@ -68,6 +68,14 @@ I am currently studying at the I am a Junior Programming school. In the future, 
 <img src="https://github.com/BogdanBTO/BogdanBTO/blob/main/Skills_logo/unity_logo.png" width="36" height="36" alt="Unity" /></a>
 </div>
 
+## 📊 Моя статистика языков
+
+## 📊 Статистика языков
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBTO&layout=compact&langs_count=10&hide=html,css&theme=tokyonight)
+
+
+
 ###
 <!-- Your comment here 
 <h3 align="left">🔥   Моя статистика :</h3>
