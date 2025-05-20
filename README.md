@@ -70,8 +70,6 @@ I am currently studying at the I am a Junior Programming school. In the future, 
 
 ## 📊 Моя статистика языков
 
-## 📊 Статистика языков
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBTO&layout=compact&langs_count=10&hide=html,css&theme=tokyonight)
 
 
