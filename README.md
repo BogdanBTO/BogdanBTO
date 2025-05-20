@@ -47,7 +47,7 @@ I am currently studying at the I am a Junior Programming school. In the future, 
 
 ###
 
-<h3 align="left">🛠 Skills:</h3>
+<h3 align="left">🛠 languages and tools:</h3>
 
 ###
 <div align="left">
