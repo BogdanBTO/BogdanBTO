@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Steam Badge"/>
 
   <a href="https://vk.com/id1049209100" target="_blank)">
-    <img src="https://img.shields.io/badge/more-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="more Badge"/>
+    <img src="https://img.shields.io/badge/VK-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="VK Badge"/>
   </a>
    <!-- <a href="https://vk.com/id863705587" target="_blank">
     <img src="https://img.shields.io/badge/VKONTAKTE-blue" height="25" alt="youtube logo"  />
